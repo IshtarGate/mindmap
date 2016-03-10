@@ -1,0 +1,1 @@
+# This is the main function of the mind map program
